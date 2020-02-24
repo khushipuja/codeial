@@ -1,5 +1,0 @@
-{
-    "git.autoRepositoryDetection": false,
-    "scm.countBadge": "off",
-    "scm.diffDecorationsGutterVisibility": "hover"
-}
